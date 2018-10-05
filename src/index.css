@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+
+.todolist {
+  padding-left: 0;
+}
+  
+    
+      .done {
+        color: #999;
+        text-decoration: line-through;
+      }
+          .form-check-label {
+           
+          
+          color: #999;
+       
+        }
+      .container-fluid{
+        margin-bottom: 50px;
+        margin-right: 450px;
+        margin-left: 450px;
+      }
+  
+ 
